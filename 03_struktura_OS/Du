@@ -1,0 +1,29 @@
+                     +---------------------------+
+                     |         POUŽÍVATEĽ        |
+                     |   (osoba ovládajúca OS)   |
+                     +---------------------------+
+                               |
+                               v
+                     +---------------------------+
+                     |        APLIKÁCIE          |
+                     |  (shell, utility, editory |
+                     |     programy, procesy)    |
+                     +---------------------------+
+                               |
+                               v
+             +--------------------------------------------+
+             |                  JADRO                     |
+             |--------------------------------------------|
+             |  Systémové volania (API)                   |
+             |  Správa procesov (scheduler)               |
+             |  Správa pamäti (MMU, paging)               |
+             |  Súborový systém (VFS)                     |
+             |  Sieťový stack                             |
+             |  Ovladače zariadení (device drivers)       |
+             +--------------------------------------------+
+                               |
+                               v
+                     +---------------------------+
+                     |         HARDVÉR           |
+                     |   CPU, RAM, disky, I/O    |
+                     +---------------------------+
