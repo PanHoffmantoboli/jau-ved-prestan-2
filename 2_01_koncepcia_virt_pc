@@ -1,1 +1,7 @@
+### Porovnanie virtualizačných nástrojov
 
+| Nástroj      | Cena                                      | Platformy                      | Výhody                                                                 | Nevýhody                                                                  |
+|--------------|-------------------------------------------|--------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| VirtualBox   | Zadarmo (open-source)                     | Windows, Linux, macOS          | Úplne zadarmo, jednoduché používanie, široká podpora OS, veľká komunita | Nižší výkon oproti VMware, slabšia 3D akcelerácia                        |
+| VMware Workstation / Player | Player – zadarmo (nekomerčne), Workstation – platený | Windows, Linux                  | Vysoký výkon, stabilita, profesionálne funkcie, skvelá 3D akcelerácia  | Plná verzia je platená, Player má obmedzené funkcie                       |
+| Hyper-V      | Zadarmo (s Windows Pro/Enterprise)        | Windows (Host), rôzne Guest OS | Výborný výkon (Type-1), integrovaný v systéme, vhodný pre servery      | Nedostupný na Windows Home, slabšia podpora Linux desktopu, menej intuitívne ovládanie |
