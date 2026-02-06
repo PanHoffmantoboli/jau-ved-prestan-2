@@ -50,3 +50,46 @@ PCIVEN_10DE&DEV_28A0&SUBSYS_13C71462&REV_A1
 |Najnovšia verzia ovládača|591.86|
 |Veľkosť súboru|918.36 MB|
 |Dátum vydania|Utorok Jan 27, 2026|
+
+----------------------------
+
+krok 4
+
+Nainštalovaná verzia: 32.0.15.6614
+
+Najnovšia dostupná: 591.86
+
+Je potrebná aktualizácia?   ÁNO
+
+----------------------------
+
+ÚLOHA 4
+
+
+| Sekcia | Čo ste našli |
+| :--- | :--- |
+| Plánovač úloh → Knižnica | Koľko úloh? 21 |
+| Zobrazovač udalostí → Windows → Systém | Posledná chyba: Warning,Netwtw14,6062 |
+| Zdieľané priečinky → Zdieľania | Koľko zdieľaní? 5 |
+| Lokálni používatelia → Používatelia | Koľko účtov? 1 |
+
+
+----------------------------
+
+krok 3
+
+nevidim
+
+----------------------------
+
+krok 4
+
+Koľko diskov máte? 1
+
+Koľko oddielov (partícií) máte? 4
+
+Aký je rozdiel medzi spustením devmgmt.msc samostatne a cez compmgmt.msc ? ked spustim devmgmt.msc tak ma to da rovno do spravca zariadeni
+
+----------------------------
+
+zaver: David Sihelnik GOAT
